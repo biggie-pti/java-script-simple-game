@@ -5,5 +5,5 @@ const possibleChoices= document.querySelectorAll('button')
 let userChoice
 
 possibleChoices.forEach(possibleChoice=>possibleChoice.addEventListener('click', (e)=>{
-    userChoice=e.target.id
+    userChoice=e.target.i
 }))

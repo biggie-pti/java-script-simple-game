@@ -1,0 +1,1 @@
+constcomputerC document.getElementById('computer-choice')

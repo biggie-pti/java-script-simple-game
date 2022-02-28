@@ -1,0 +1,1 @@
+constdocument.getElementById('computer-choice')
